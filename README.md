@@ -140,7 +140,7 @@ Fraud prevention methods include:
 React.js (Web Application)
 
 ### Backend
-Node.js / Express
+Node.js 
 
 ### Database
 MySQL
